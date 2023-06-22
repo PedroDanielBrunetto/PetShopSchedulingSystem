@@ -30,7 +30,7 @@ e aperfeiçoar minha experiência com o banco de dados.<br>
 
 A utilização da framework GunaUI para estilizar os formulários foi um elemento essencial em nosso projeto. Foi de extrema importância conhecer e implementar essa ferramenta, 
   pois ela nos permitiu criar interfaces visualmente atrativas para nossa aplicação em Windows Forms. 
-  Em um contexto onde as aplicações em formulários geralmente carecem de estilo, tenho muito orgulho tanto de mim quanto da minha dupla, Fernando Fernandes. Segue o perfil do GitHub dele: https://github.com/Fernando-Fernandes05.
+  Em um contexto onde as aplicações em formulários geralmente carecem de estilo, tenho orgulho tanto de meu trabalho quanto do da minha dupla, Fernando Fernandes. Segue o perfil do GitHub dele: https://github.com/Fernando-Fernandes05.
 #
 <img src = "https://i.imgur.com/lpP9V2p.png" alt="EUA" width="16" height="15">・<b>Below are some images that correspond to the screens in the project sequence:</b><br>
 <img src = "https://i.imgur.com/7rbuUCk.gif" alt="BR" width="20" height="15">・<b>Seguem algumas imagens que correspondem às telas na sequência do projeto:</b><br>
